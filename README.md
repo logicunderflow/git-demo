@@ -2,8 +2,7 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website contents
 
-Blah blah
+index.html
 
-More stuff to save
